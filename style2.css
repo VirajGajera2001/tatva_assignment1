@@ -1,6 +1,4 @@
 #navbar{
-    top: 0px;
-    left: 0px;
     width: 1520px;
     height: 80px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -11,23 +9,17 @@
     margin: 10px 10px;
 }
 #navs .menubar{
-    top: 34px;
-    left: 29px;
     width: 30px;
     height: 30px;
     opacity: 1;
     padding: 0px 25px;
 }
 #navs .logo{
-    top: 25px;
-    left: 80px;
     width: 142px;
     height: 30px;
     opacity: 1;
 }
 #navs .searchico{
-    top: 32px;  
-    left: 320px;
     width: 25px;
     height: 25px;
     opacity: 1;
@@ -106,9 +98,9 @@
 .sidebarimg{
     width: 25px;
     height: 25px;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 #sidebar .sidespans{
-    margin-top: 15px;
+    margin-top: 10px;
     padding-left: 10px;
 }
