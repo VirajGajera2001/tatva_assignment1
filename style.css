@@ -42,6 +42,9 @@
     position: absolute;
     font-family: 'Manrope', sans-serif;
 }
+#side #exp{
+    color: #C8242F;
+}
 #side #formtitle{
     top: 280px;
     left: 904px;
