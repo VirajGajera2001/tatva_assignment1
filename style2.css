@@ -1,0 +1,114 @@
+#navbar{
+    top: 0px;
+    left: 0px;
+    width: 1520px;
+    height: 80px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#navbar #navs{
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+#navs .menubar{
+    top: 34px;
+    left: 29px;
+    width: 30px;
+    height: 30px;
+    opacity: 1;
+    padding: 0px 25px;
+}
+#navs .logo{
+    top: 25px;
+    left: 80px;
+    width: 142px;
+    height: 30px;
+    opacity: 1;
+}
+#navs .searchico{
+    top: 32px;  
+    left: 320px;
+    width: 25px;
+    height: 25px;
+    opacity: 1;
+    margin-left: 75px;
+}
+#navs .search{
+    top: 24px;
+    left: 350px;
+    height: 30px;
+    text-align: left;
+    font: normal normal normal 16px/21px Roboto;
+    letter-spacing: 0px;
+    opacity: 1;
+    margin-left: 20px;
+    position: absolute;
+    border: none;
+    font-size: 20px;
+}
+.notifi{
+    top: 28px;
+    left: 1294px;
+    width: 22px;
+    height: 21px;
+    background:0% 0% no-repeat padding-box;
+    opacity: 1;
+    float: right;
+    position: absolute;
+}
+.profile{
+    top: 18px;
+    left: 1368px;
+    width: 44px;
+    height: 44px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.profilename{
+    top: 15px;
+    left: 1424px;
+    width: 68px;
+    height: 21px;
+    text-align: left;
+    font: normal normal normal 16px/21px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+}
+.arrow{
+    top: 30px;
+    left: 1490px;
+    width: 29px;
+    height: 30px;
+    background:0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+#sidebar{
+    width: 242px;
+    height: 1279px;
+    margin: 25px 25px;
+}
+#dash{
+    width: 183px;
+    height: 43px;
+    background: #FFF3F4 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    display: flex;
+    padding-top: 10px;
+}
+#analy,#inbox,#history,#userdef,#maintain,#setting{
+    display: flex;
+    padding-top: 10px;
+}
+.sidebarimg{
+    width: 25px;
+    height: 25px;
+    padding-top: 10px;
+}
+#sidebar .sidespans{
+    margin-top: 15px;
+    padding-left: 10px;
+}
